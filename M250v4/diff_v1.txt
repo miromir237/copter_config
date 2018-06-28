@@ -1,0 +1,118 @@
+
+# name
+name MPQuadR
+
+# resources
+resource MOTOR 1 A02
+resource MOTOR 2 A03
+resource MOTOR 3 B01
+resource MOTOR 4 B00
+
+# mixer
+
+# servo
+
+# servo mix
+
+
+# feature
+feature TELEMETRY
+feature LED_STRIP
+feature AIRMODE
+feature ANTI_GRAVITY
+feature DYNAMIC_FILTER
+
+# beeper
+
+# map
+
+# serial
+serial 0 64 115200 57600 0 115200
+serial 2 32 115200 57600 0 115200
+serial 5 8192 115200 57600 0 115200
+
+# led
+led 0 5,9::CV:0
+led 1 6,9::CV:0
+led 2 7,9::CV:0
+led 3 8,9::CV:0
+
+# color
+
+# mode_color
+
+# aux
+aux 0 0 0 1700 2100
+aux 1 1 1 1300 2100
+aux 2 13 2 1700 2100
+aux 3 36 3 1700 2100
+
+# adjrange
+
+# rxrange
+
+# vtx
+
+# rxfail
+
+# master
+set baro_hardware = NONE
+set rssi_channel = 16
+set serialrx_provider = SBUS
+set dshot_idle_value = 500
+set motor_pwm_protocol = DSHOT600
+set align_board_yaw = 180
+set ibata_scale = 450
+set yaw_motors_reversed = ON
+set pid_process_denom = 2
+set osd_rssi_pos = 2106
+set osd_tim_1_pos = 54
+set osd_tim_2_pos = 2455
+set osd_flymode_pos = 333
+set osd_throttle_pos = 2081
+set osd_vtx_channel_pos = 377
+set osd_crosshairs = 200
+set osd_ah_sbar = 200
+set osd_ah_pos = 200
+set osd_current_pos = 2465
+set osd_mah_drawn_pos = 2433
+set osd_craft_name_pos = 2442
+set osd_gps_speed_pos = 218
+set osd_gps_lon_pos = 82
+set osd_gps_lat_pos = 65
+set osd_gps_sats_pos = 51
+set osd_home_dir_pos = 302
+set osd_home_dist_pos = 303
+set osd_compass_bar_pos = 266
+set osd_altitude_pos = 247
+set osd_pid_roll_pos = 423
+set osd_pid_pitch_pos = 455
+set osd_pid_yaw_pos = 487
+set osd_debug_pos = 1
+set osd_power_pos = 321
+set osd_pidrate_profile_pos = 345
+set osd_warnings_pos = 329
+set osd_avg_cell_voltage_pos = 76
+set osd_pit_ang_pos = 257
+set osd_rol_ang_pos = 289
+set osd_battery_usage_pos = 392
+set osd_disarmed_pos = 138
+set osd_nheading_pos = 311
+set osd_nvario_pos = 279
+set osd_esc_tmp_pos = 82
+set osd_esc_rpm_pos = 83
+set debug_mode = NOTCH
+set vcd_video_system = 1
+
+# profile
+profile 0
+
+set anti_gravity_gain = 3500
+
+# rateprofile
+rateprofile 0
+
+set rc_rate = 128
+set rc_rate_yaw = 128
+set roll_srate = 68
+set yaw_srate = 68
