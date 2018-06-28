@@ -1,2 +1,2 @@
 # copter_config
-Betaflight Config files for my copters
+Betaflight/Butterflight config files for my copters
