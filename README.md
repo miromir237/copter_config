@@ -15,4 +15,4 @@ The best flying experience is with 5.5" propellers. I especialy like Gemfan 5552
 ## Spectre
 Rotorama Spectre is 6" capable freestyle copter designed by Czech drone racing team. It is similar style as Armattan Chameleon/Rooster. It is lighter than MartianII frame and I like flying it but I am strugling to filter out jello from HD recordings. 
 
-It is currently running BrotherHobby R3 1660kv motors and Racerstar Tattoo 35A ESCs (from M220 copter) and DYS F4v2 Pro flight controler. It was running Matek F405-AIO but I wanted to test if I get rid of jello by replacing FC. That did not worked out.
+It is currently running BrotherHobby R5 2400kv motors and Racerstar Tattoo 35A ESCs (from M220 copter) and Matek F405-AIO flight controler. 
