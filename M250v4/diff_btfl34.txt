@@ -1,3 +1,11 @@
+# diff
+
+# version
+# Betaflight / MATEKF405 (MKF4) 3.4.1 Aug  2 2018 / 08:10:30 (1d99444d9) MSP API: 1.39
+
+board_name MATEKF405
+manufacturer_id 
+
 # name
 name MPQUAD250
 
@@ -13,15 +21,20 @@ resource SERIAL_TX 11 A15
 
 
 # feature
+feature GPS
+feature RSSI_ADC
 feature LED_STRIP
 feature AIRMODE
 
 # beeper
 beeper -ON_USB
 
+# beacon
+
 # map
 
 # serial
+serial 0 2 115200 57600 0 115200
 serial 4 8192 115200 57600 0 115200
 serial 30 32 115200 57600 0 115200
 
@@ -50,16 +63,18 @@ aux 3 36 3 1700 2100 0
 # rxfail
 
 # master
-set gyro_notch1_hz = 0
-set gyro_notch2_hz = 0
+set gyro_lowpass_hz = 90
+set gyro_lowpass2_hz = 230
+set acc_calibration = -18,-9,50
 set mag_hardware = NONE
 set baro_hardware = NONE
 set rc_interp_ch = RPYT
-rc_smoothing_type = FILTER
-set dshot_idle_value = 450
+set blackbox_p_ratio = 64
+set dshot_idle_value = 550
 set motor_pwm_protocol = DSHOT1200
 set vbat_scale = 111
-yaw_motors_reversed = ON
+set yaw_motors_reversed = ON
+set gps_provider = UBLOX
 set osd_rssi_alarm = 40
 set osd_vbat_pos = 2476
 set osd_rssi_pos = 2444
@@ -72,12 +87,12 @@ set osd_ah_pos = 200
 set osd_current_pos = 2465
 set osd_mah_drawn_pos = 2434
 set osd_craft_name_pos = 2090
-set osd_gps_speed_pos = 218
+set osd_gps_speed_pos = 2105
 set osd_gps_lon_pos = 82
 set osd_gps_lat_pos = 65
-set osd_gps_sats_pos = 51
-set osd_home_dir_pos = 302
-set osd_home_dist_pos = 303
+set osd_gps_sats_pos = 2099
+set osd_home_dir_pos = 2113
+set osd_home_dist_pos = 2081
 set osd_compass_bar_pos = 266
 set osd_altitude_pos = 247
 set osd_pid_roll_pos = 423
@@ -96,9 +111,7 @@ set osd_nheading_pos = 311
 set osd_nvario_pos = 279
 set osd_esc_tmp_pos = 82
 set osd_esc_rpm_pos = 83
-set osd_stat_max_spd = ON
 set osd_stat_endbatt = ON
-set osd_stat_bbox = ON
 set debug_mode = GYRO_SCALED
 set vtx_band = 3
 set vtx_channel = 8
@@ -109,20 +122,22 @@ set vcd_video_system = PAL
 # profile
 profile 0
 
-set dterm_lowpass_hz = 90
-set dterm_lowpass2_hz = 160
+set dterm_lowpass_hz = 110
+set dterm_lowpass2_hz = 220
 set dterm_notch_cutoff = 0
 set iterm_relax = RP
 set p_pitch = 47
 set p_roll = 43
+set p_yaw = 63
 
 # rateprofile
 rateprofile 0
 
-set roll_rc_rate = 128
-set pitch_rc_rate = 128
-set yaw_rc_rate = 128
+set roll_rc_rate = 131
+set pitch_rc_rate = 131
+set yaw_rc_rate = 131
 set roll_srate = 68
+set pitch_srate = 68
 set yaw_srate = 68
 set tpa_rate = 20
 set tpa_breakpoint = 1450
