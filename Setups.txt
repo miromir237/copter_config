@@ -33,3 +33,14 @@ ESC - Racerstar Tatto 35A BLHeli_32
 FC - Matek F405-AIO running Betafligh on 8k/2k loops
 FPV cam - Caddix Turbo F1
 VTX - Matek VTX-HV
+
+MPQUAD290
+-----------
+Frame - AmaxInno Freestyle 7"
+Motors - Emax LS2207 1900kv
+Prop - Dal T7056C
+ESC - KISS 4in1 25A
+FC - KISS v2
+FPV cam - Foxeer Predator Mini v2
+VTX - TBS UnifyHV
+Battery - Acehe 4s 1500mAh
