@@ -1,8 +1,8 @@
 
-Setup MPQUAD250v4
+MPQUAD250v4
 -----------
 Frame - MartianII 250
-Motors - Emax LS2207 1900kv
+Motors - BrotherHobby R5 2400kv 
 Props - Emax Avan 6038 / Gemafan 6042x3
 ESC - DYS Aria
 FC - Matek F405-STD running Betafligh on 8k/2k loops
@@ -11,8 +11,8 @@ RC link - R9M Slim
 FPV cam - Foxeer Predator Mini v2
 Battery - Acehe 4s 1500mAh
 
-Setup MPQUAD220
------------
+MPQUAD220
+---------
 Frame - MartianII 220
 Motors - T-Motor F40 III 2400kv
 Props - Emax Avan 5x4.3x3
@@ -25,22 +25,33 @@ Battery - Acehe 4s 1500mAh
 
 
 MPQUAD260
------------
+---------
 Frame - Rotorama Spectre
-Motors - BrotherHobby R5 2400kv
+Motors - 
 Prop - Dal T5046C
 ESC - Racerstar Tatto 35A BLHeli_32
 FC - Matek F405-AIO running Betafligh on 8k/2k loops
 FPV cam - Caddix Turbo F1
 VTX - Matek VTX-HV
 
-MPQUAD290
+MPQUAD29001
 -----------
-Frame - AmaxInno Freestyle 7"
-Motors - Emax LS2207 1900kv
+Frame - AmaxInno Freestyle 7" v2
+Motors - BrotherHobby R3 2207 1660kv
 Prop - Dal T7056C
 ESC - KISS 4in1 25A
 FC - KISS v2
 FPV cam - Foxeer Predator Mini v2
 VTX - TBS UnifyHV
+Battery - Acehe 4s 1500mAh
+
+MPQUAD29002 - beeing build currently
+-----------
+Frame - AmaxInno Freestyle 7" v2
+Motors - Emax LS2207 1900kv
+Prop - Dal T7056C
+ESC - Racerstar PG50
+FC - FlightOne (it is actually Raceflight v2)
+FPV cam - Foxeer Falkor Mini
+VTX - Matek VTX-HV 
 Battery - Acehe 4s 1500mAh
