@@ -27,17 +27,18 @@ Battery - Acehe 4s 1500mAh
 MPQUAD260
 ---------
 Frame - Rotorama Spectre
-Motors - 
-Prop - Dal T5046C
-ESC - Racerstar Tatto 35A BLHeli_32
-FC - Matek F405-AIO running Betafligh on 8k/2k loops
-FPV cam - Caddix Turbo F1
-VTX - Matek VTX-HV
+Motors - Emax LS2207 1900kv
+Prop - GF 6042x3
+ESC - KISS 4in1 25A
+FC - KISS v2
+FPV cam - Foxeer Predator Mini v2
+VTX - TBS UnifyHV
+Battery - Acehe 4s 1500mAh
 
 MPQUAD29001 
 -----------
 Frame - AmaxInno Freestyle 7" v2
-Motors - Emax LS2207 1900kv
+Motors - iFlight Tachyon 2207 1750kv
 Prop - Dal T7056C
 ESC - Racerstar PG50
 FC - Helio Spring FC
@@ -50,10 +51,10 @@ MPQUAD29002
 Frame - AmaxInno Freestyle 7" v2
 Motors - iFlight Tachyon 2207 1750kv
 Prop - Dal T7056C
-ESC - KISS 4in1 25A
-FC - KISS v2
-FPV cam - Foxeer Predator Mini v2
-VTX - TBS UnifyHV
+ESC - 
+FC - 
+FPV cam - 
+VTX - 
 Battery - Acehe 4s 1500mAh
 
 
