@@ -1,0 +1,98 @@
+# diff
+
+# version
+# Betaflight / RADIX (RADIX) 3.5.2 Oct 23 2018 / 16:27:40 (9f0df1356) MSP API: 1.40
+
+board_name RADIX
+manufacturer_id 
+
+# name
+name MPQuad290R
+
+# resources
+
+# mixer
+
+# servo
+
+# servo mix
+
+
+# feature
+feature -RX_PPM
+feature RX_SERIAL
+feature TELEMETRY
+feature RSSI_ADC
+feature LED_STRIP
+feature AIRMODE
+
+# beeper
+beeper -ON_USB
+
+# beacon
+
+# map
+
+# serial
+serial 0 8192 115200 57600 0 115200
+serial 2 64 115200 57600 0 115200
+serial 5 32 115200 57600 0 115200
+
+# led
+led 0 7,7::CB:2
+led 1 7,8::CB:2
+led 2 7,9::CB:2
+led 3 7,10::CB:2
+
+# color
+
+# mode_color
+
+# aux
+aux 0 0 0 1700 2100 0 0
+aux 1 13 4 1700 2100 0 0
+aux 2 36 2 1700 2100 0 0
+
+# adjrange
+
+# rxrange
+
+# vtx
+
+# rxfail
+
+# master
+set dshot_idle_value = 550
+set motor_pwm_protocol = DSHOT1200
+set ibata_scale = 152
+set yaw_motors_reversed = ON
+set osd_warn_core_temp = OFF
+set osd_vbat_pos = 2476
+set osd_rssi_pos = 2465
+set osd_tim_1_pos = 54
+set osd_tim_2_pos = 2487
+set osd_flymode_pos = 65
+set osd_crosshairs_pos = 205
+set osd_current_pos = 353
+set osd_mah_drawn_pos = 321
+set osd_craft_name_pos = 362
+set osd_warnings_pos = 265
+set osd_avg_cell_voltage_pos = 76
+set vcd_video_system = PAL
+
+# profile
+profile 0
+
+set dterm_notch_cutoff = 0
+
+# rateprofile
+rateprofile 0
+
+set roll_rc_rate = 133
+set pitch_rc_rate = 133
+set yaw_rc_rate = 133
+set roll_srate = 68
+set pitch_srate = 68
+set yaw_srate = 69
+set tpa_rate = 15
+set tpa_breakpoint = 1400
