@@ -1,3 +1,7 @@
+
+# version
+# Betaflight / OMNIBUSF4 (OBF4) 3.2.3 Dec 11 2017 / 07:56:31 (cb962eda1) MSP API: 1.36
+
 # name
 name Eclair
 
@@ -12,6 +16,8 @@ name Eclair
 
 # feature
 feature TELEMETRY
+feature LED_STRIP
+feature AIRMODE
 feature ANTI_GRAVITY
 feature DYNAMIC_FILTER
 
@@ -26,16 +32,18 @@ serial 2 32 115200 57600 0 115200
 serial 5 8192 115200 57600 0 115200
 
 # led
+led 0 6,7::CW:10
+led 1 7,7::CW:10
 
 # color
 
 # mode_color
 
 # aux
-aux 0 0 0 900 1300
-aux 1 1 1 1700 2100
-aux 2 2 1 1300 1700
-aux 3 13 2 900 1300
+aux 0 0 0 1700 2100
+aux 1 1 1 1200 2100
+aux 2 13 2 900 1300
+aux 3 28 1 900 1300
 
 # adjrange
 
@@ -46,9 +54,16 @@ aux 3 13 2 900 1300
 # rxfail
 
 # master
+set gyro_lowpass_hz = 120
+set gyro_notch1_hz = 0
+set gyro_notch1_cutoff = 0
+set gyro_notch2_hz = 180
+set gyro_notch2_cutoff = 130
 set baro_hardware = NONE
 set rssi_channel = 8
 set serialrx_provider = SBUS
+set blackbox_p_ratio = 64
+set blackbox_device = NONE
 set motor_pwm_protocol = DSHOT600
 set current_meter = NONE
 set deadband = 2
@@ -66,7 +81,7 @@ set osd_ah_sbar = 238
 set osd_ah_pos = 110
 set osd_current_pos = 385
 set osd_mah_drawn_pos = 353
-set osd_craft_name_pos = 43
+set osd_craft_name_pos = 362
 set osd_gps_speed_pos = 218
 set osd_gps_lon_pos = 82
 set osd_gps_lat_pos = 65
@@ -86,15 +101,25 @@ set osd_avg_cell_voltage_pos = 76
 set osd_pit_ang_pos = 257
 set osd_rol_ang_pos = 289
 set osd_battery_usage_pos = 392
-set osd_disarmed_pos = 22
+set osd_disarmed_pos = 138
 set osd_nheading_pos = 311
 set osd_nvario_pos = 279
 set osd_esc_tmp_pos = 82
 set osd_esc_rpm_pos = 83
+set debug_mode = NOTCH
 
 # profile
 profile 0
 
+set dterm_lowpass = 130
+set dterm_notch_hz = 180
+set dterm_notch_cutoff = 130
 
 # rateprofile
-rateprofile 0                                      
+rateprofile 1
+
+set rc_rate = 130
+set rc_rate_yaw = 130
+set roll_srate = 68
+set pitch_srate = 68
+set yaw_srate = 68
