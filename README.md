@@ -31,3 +31,11 @@ I am currently in test/tunning phase.
 
 ## Eclair 3"
 Build for my son. Running Superman 4850kv motors, HGLRC F4 Mini and HGLRC F330 ESC. R-XSR, HGLRC mini VTX and Runcam DVR module. It is very mellow flier on 3s.
+
+## IntrepidV2
+AirbladeAUV IntrepidV2 Pro 3" built as portable cinematic quad. Runcam Split Mini V2 inside taking some nice FullHD video. Nope, it cam with wierd lenses that leave edges of the image blured even after re-focusing. FPV feed is super noisy and I will have to put some LC filter between the cam and power leads. REally frustrating.
+Quad it self flies really nice. Not much jello, only on hard throttle. I have to lear fly it though. It's quite a bit different than my bigger birds.
+
+## Dingo 6"
+Basically got caught in Xmas discounts and bough bunch of KISS ESCs, this frame and newly realease ClearTXv2. Supplied it with KISSv2 FC, motors, LEDs, Foxeer Falkor, etc. and now it flies 6s no problem.
+Really low noise profile. The frame seems to be really stiff. Overall very pleased.
