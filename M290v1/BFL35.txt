@@ -1,3 +1,8 @@
+# diff
+
+# version
+# Betaflight / MATEKF405 (MKF4) 3.5.4 Dec 17 2018 / 12:06:27 (66b8ea143) MSP API: 1.40
+
 board_name MATEKF405
 manufacturer_id 
 
@@ -42,9 +47,8 @@ led 3 8,8::CV:0
 # aux
 aux 0 0 0 1700 2100 0 0
 aux 1 1 1 1300 2100 0 0
-aux 2 4 1 900 1300 0 0
-aux 3 13 2 1700 2100 0 0
-aux 4 36 3 1700 2100 0 0
+aux 2 13 4 1700 2100 0 0
+aux 3 36 2 1700 2100 0 0
 
 # adjrange
 
@@ -55,22 +59,24 @@ aux 4 36 3 1700 2100 0 0
 # rxfail
 
 # master
-set gyro_lowpass_hz = 70
-set gyro_lowpass2_hz = 130
+set gyro_lowpass_hz = 80
+set gyro_lowpass2_hz = 200
+set gyro_notch2_hz = 150
+set gyro_notch2_cutoff = 100
 set acc_calibration = 1,-18,15
 set mag_hardware = NONE
 set baro_hardware = NONE
-set rssi_channel = 16
+set rssi_channel = 15
 set rc_smoothing_type = FILTER
 set blackbox_p_ratio = 64
-set dshot_idle_value = 550
+set dshot_idle_value = 650
 set motor_pwm_protocol = DSHOT1200
 set align_board_yaw = 270
 set vbat_scale = 113
 set yaw_motors_reversed = ON
 set osd_rssi_alarm = 40
 set osd_cap_alarm = 1100
-set osd_vbat_pos = 2476
+set osd_vbat_pos = 428
 set osd_rssi_pos = 2445
 set osd_tim_1_pos = 54
 set osd_tim_2_pos = 2487
@@ -96,7 +102,7 @@ set osd_debug_pos = 1
 set osd_power_pos = 321
 set osd_pidrate_profile_pos = 345
 set osd_warnings_pos = 329
-set osd_avg_cell_voltage_pos = 427
+set osd_avg_cell_voltage_pos = 2475
 set osd_pit_ang_pos = 257
 set osd_rol_ang_pos = 289
 set osd_battery_usage_pos = 392
@@ -118,8 +124,7 @@ set vcd_video_system = PAL
 # profile
 profile 0
 
-set dterm_lowpass_hz = 70
-set dterm_lowpass2_hz = 130
+set dterm_lowpass_hz = 80
 set dterm_notch_cutoff = 0
 set feedforward_transition = 15
 set p_pitch = 45

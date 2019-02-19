@@ -24,7 +24,7 @@ FPV cam - Foxeer Predator Mini
 Battery - Acehe 4s 1500mAh
 
 
-MPQUAD260
+Spectre
 ---------
 Frame - Rotorama Spectre
 Motors - Emax LS2207 1900kv
@@ -87,3 +87,5 @@ Tags: AmaxInno,Freestyle,7inch,iFlight,Tachyon,2207,1750kv,Dal T7056C,Racerstar 
 Tags: AmaxInno,Freestyle,7inch,iFlight,Tachyon,2207,1750kv,Dal T7056C,HobbyWing 45A 4in1,BrainFPV Radix,Foxeer Falkor Micro,Matek VTX-HV,Rush 5s 1300mAh
 
 Tags: SabotageRC,SabotageRC Dingo,6inch,iFlight,Tachyon,2207,1750kv,Gemfan 6042x3,Flyduino,KISSv2,KISS 32A,Foxeer Falkor Micro,Foxeer ClearTxV2,Rush 5s 1300mAh
+
+Tags: Rotorama Spectre,Rotorama,6inch,Emax,LS2207,1900kv,Gemfan 6042x3,Flyduino,KISSv2,KISS 25A,Foxeer Predator,TBS UnifyHV,Rush 5s 1300mAh
