@@ -7,9 +7,13 @@ board_name RADIX
 manufacturer_id 
 
 # name
-name MPQuad290R
+name MPQuad290v3
 
 # resources
+resource MOTOR 1 A03
+resource MOTOR 2 A15
+resource MOTOR 3 A02
+resource MOTOR 4 A10
 
 # mixer
 
@@ -62,37 +66,62 @@ aux 2 36 2 1700 2100 0 0
 # rxfail
 
 # master
+set gyro_lowpass_hz = 80
+set gyro_lowpass2_hz = 380
+set gyro_notch1_hz = 480
+set gyro_notch1_cutoff = 380
+set gyro_notch2_hz = 650
+set gyro_notch2_cutoff = 580
+set acc_hardware = NONE
+set baro_hardware = NONE
+set rc_smoothing_type = FILTER
+set blackbox_p_ratio = 64
 set dshot_idle_value = 550
 set motor_pwm_protocol = DSHOT1200
 set ibata_scale = 152
 set yaw_motors_reversed = ON
 set osd_warn_core_temp = OFF
-set osd_vbat_pos = 2476
-set osd_rssi_pos = 2465
+set osd_vbat_pos = 428
+set osd_rssi_pos = 2444
 set osd_tim_1_pos = 54
 set osd_tim_2_pos = 2487
 set osd_flymode_pos = 65
 set osd_crosshairs_pos = 205
 set osd_current_pos = 353
-set osd_mah_drawn_pos = 321
+set osd_mah_drawn_pos = 2465
 set osd_craft_name_pos = 362
 set osd_warnings_pos = 265
-set osd_avg_cell_voltage_pos = 76
+set osd_avg_cell_voltage_pos = 2475
+set debug_mode = GYRO_SCALED
+set vtx_power = 3
 set vcd_video_system = PAL
+set brainfpv_altitude_scale = 0
+set brainfpv_speed_scale = 0
+set brainfpv_map = 0
+set brainfpv_spectrograph = 1
 
 # profile
 profile 0
 
+set dterm_lowpass_hz = 90
+set dterm_lowpass2_hz = 380
 set dterm_notch_cutoff = 0
+set feedforward_transition = 15
+set yaw_lowpass_hz = 380
+set p_pitch = 38
+set d_pitch = 30
+set p_roll = 40
+set i_roll = 52
+set d_roll = 30
+set d_yaw = 5
 
 # rateprofile
 rateprofile 0
 
-set roll_rc_rate = 133
-set pitch_rc_rate = 133
-set yaw_rc_rate = 133
+set roll_rc_rate = 137
+set pitch_rc_rate = 137
+set yaw_rc_rate = 137
 set roll_srate = 68
 set pitch_srate = 68
-set yaw_srate = 69
 set tpa_rate = 15
-set tpa_breakpoint = 1400
+set tpa_breakpoint = 1350
