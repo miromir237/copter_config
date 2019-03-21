@@ -25,7 +25,7 @@ Initialy planned as longrange copter but the frame body is very small, berely to
 It is now running HeliRC Sping FC, Racerstart PG50 4in1 ESC, iFlight Tachyon 2207 1750kv motors and I am currently in test/tunning phase. So far it looks promissing but I will probably switch from Butter to Betaflight.
 
 ## AmaxInno Freestyle 7" v2 number 2
-I was very much pleased with AmaxInno Freestyle 7" v2 so I bought one more. I am runnig it with HobbyWing 45A esc, RadixFC and iFlight Tachyon 2207 1750kv motors.
+I was very much pleased with AmaxInno Freestyle 7" v2 so I bought one more. I am runnig it with Racerstar 35A BLHeli_S esc, RadixFC and iFlight Tachyon 2207 1750kv motors.
 I am currently in test/tunning phase.
 
 
