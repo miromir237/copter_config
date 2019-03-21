@@ -63,7 +63,7 @@ MPQUAD29003
 Frame - AmaxInno Freestyle 7" v2
 Motors - iFlight Tachyon 2207 1750kv
 Prop - Dal T7056C
-ESC - HobbyWing 45A 4in1
+ESC - Racerstar 35A BLHeli_S
 FC - BrainFPV Radix
 FPV cam - Foxeer Falkor Micro
 VTX - Matek VTX-HV
