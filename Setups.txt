@@ -37,23 +37,23 @@ Battery - Acehe 4s 1500mAh
 
 MPQUAD29001 
 -----------
-Frame - AmaxInno Freestyle 7" v1
-Motors - BrotherHobby R3 2207 1660kv
-Prop - Dal T7056C
-ESC - Racerstar Tatto 35A
-FC - Matek F405 AIO
-FPV cam - Caddx F1
-VTX - Matek VTX-HV 
-Battery - Acehe 5s 1300mAh
-
-MPQUAD29002 
------------
 Frame - AmaxInno Freestyle 7" v2
 Motors - iFlight Tachyon 2207 1750kv
 Prop - Dal T7056C
+ESC - Racerstar Tatto 35A
+FC - Matek F405 AIO
+FPV cam - Foxeer Falkor Mini
+VTX - Matek VTX-HV 
+Battery - Acehe 5s 1300mAh
+
+MPQUAD29002 - busted with broken arm
+-----------
+Frame - AmaxInno Freestyle 7" v1
+Motors - BrotherHobby R3 2207 1660kv
+Prop - Dal T7056C
 ESC - Racerstar PG50 4in1
 FC - Helio Spring FC
-FPV cam - Foxeer Falkor Mini
+FPV cam - Caddx F1
 VTX - Matek VTX-HV 
 Battery - Acehe 5s 1300mAh
 
@@ -80,9 +80,9 @@ FPV cam - Foxeer Falkor Micro
 VTX - Foxeer ClearTXv2 with LollipopV2
 Battery - Rush 5s 1300mAh
 
-Tags: AmaxInno,Freestyle,7inch,BrotherHobby R3,2207,1660kv,Dal T7056C,Racerstar Tatto 35A,Matek F405 AIO,Caddx F1,Matek VTX-HV,Acehe 5s 1300mAh
+Tags: AmaxInno,Freestyle,7inch,iFlight,Tachyon,2207,1750kv,Dal T7056C,Racerstar Tatto 35A,Matek F405 AIO,Foxeer Falkor Mini,Matek VTX-HV,Acehe 5s 1300mAh
 
-Tags: AmaxInno,Freestyle,7inch,iFlight,Tachyon,2207,1750kv,Dal T7056C,Racerstar PG50 4in1,Helio Spring FC,Foxeer Falkor Mini,Matek VTX-HV,Acehe 5s 1300mAh
+Tags: AmaxInno,Freestyle,7inch,BrotherHobby R3,2207,1660kv,Dal T7056C,Racerstar PG50 4in1,Helio Spring FC,Caddx F1,Matek VTX-HV,Acehe 5s 1300mAh
 
 Tags: AmaxInno,Freestyle,7inch,iFlight,Tachyon,2207,1750kv,Dal T7056C,Racerstar SPROG 35A BLHeli_S,BrainFPV Radix,Foxeer Falkor Micro,Matek VTX-HV,Rush 5s 1300mAh
 
