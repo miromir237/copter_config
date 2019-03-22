@@ -84,7 +84,7 @@ Tags: AmaxInno,Freestyle,7inch,BrotherHobby R3,2207,1660kv,Dal T7056C,Racerstar 
 
 Tags: AmaxInno,Freestyle,7inch,iFlight,Tachyon,2207,1750kv,Dal T7056C,Racerstar PG50 4in1,Helio Spring FC,Foxeer Falkor Mini,Matek VTX-HV,Acehe 5s 1300mAh
 
-Tags: AmaxInno,Freestyle,7inch,iFlight,Tachyon,2207,1750kv,Dal T7056C,HobbyWing 45A 4in1,BrainFPV Radix,Foxeer Falkor Micro,Matek VTX-HV,Rush 5s 1300mAh
+Tags: AmaxInno,Freestyle,7inch,iFlight,Tachyon,2207,1750kv,Dal T7056C,Racerstar SPROG 35A BLHeli_S,BrainFPV Radix,Foxeer Falkor Micro,Matek VTX-HV,Rush 5s 1300mAh
 
 Tags: SabotageRC,SabotageRC Dingo,6inch,iFlight,Tachyon,2207,1750kv,Gemfan 6042x3,Flyduino,KISSv2,KISS 32A,Foxeer Falkor Micro,Foxeer ClearTxV2,Rush 5s 1300mAh
 
