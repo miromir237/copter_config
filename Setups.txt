@@ -65,6 +65,7 @@ Motors - iFlight Tachyon 2207 1750kv
 Prop - Dal T7056C
 ESC - Racerstar 35A BLHeli_S
 FC - BrainFPV Radix
+PDB - BrainPDB
 FPV cam - Foxeer Falkor Micro
 VTX - Matek VTX-HV
 Battery - Rush 5s 1300mAh
