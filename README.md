@@ -51,5 +51,5 @@ Used the DYS Aria 32bit ESCs from M250v4 and other electronics from AmaxInno Fre
 I replaced caps on ESCs with 220uF 50V althoug that was not neccesary. There is plenty room for VTX and receiver and RAdix with it's PDB fitted well. Pretty happy how it came out.
 
 ## Flosssyle 6"
-Build from spare parts I had after AmaxInno Freestyle 7" v1 crash. It's running BHR3 1660kv, Helio Spring FC, Racerstar PG50 4in1, Runcam Swift, Matek VTX-HV and Gemfan 6042x3. The kv is really low and it needs at least 5s to fly as I wish. 6s seems to be best for it. It'll need bit more tunning. It's kind of wobbly and the feel is not as good as on Dingo6. Frame it self is fine, well designed and thought. If you use recommended parts you're ok.
+Build from spare parts I had after AmaxInno Freestyle 7" v1 crash. It's running BHR3 1660kv, Helio Spring FC, HobbyWing 45A 4in1, Runcam Swift, Matek VTX-HV and Gemfan 6042x3. The kv is really low and it needs at least 5s to fly as I wish. 6s seems to be best for it. It'll need bit more tunning. It's kind of wobbly and the feel is not as good as on Dingo6. Frame it self is fine, well designed and thought. If you use recommended parts you're ok.
 
