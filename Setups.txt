@@ -1,5 +1,5 @@
 
-MPQUAD250v4
+MPQUAD250v4 - decommisioned
 -----------
 Frame - MartianII 250
 Motors - BrotherHobby R5 2400kv 
@@ -35,7 +35,7 @@ FPV cam - Foxeer Predator Mini v2
 VTX - TBS UnifyHV
 Battery - Acehe 4s 1500mAh
 
-MPQUAD29001 
+MPQUAD290v1 
 -----------
 Frame - AmaxInno Freestyle 7" v2
 Motors - iFlight Tachyon 2207 1750kv
@@ -51,14 +51,14 @@ Flosstyle6"
 Frame - Pirofliprc Flosstyle 6"
 Motors - BrotherHobby R3 2207 1660kv
 Prop - Gemfan 6042x3
-ESC - Racerstar PG50 4in1
+ESC - HobbyWing 45A 4in1
 FC - Helio Spring FC
 FPV cam - Runcam Swift
 VTX - Matek VTX-HV 
-Battery - Acehe 5s 1300mAh
+Battery - CNHL 6s 1000mAh
 
 
-MPQUAD29003
+MPQUAD290v2
 -----------
 Frame - AmaxInno Freestyle 7" v2
 Motors - iFlight Tachyon 2207 1750kv
@@ -105,4 +105,4 @@ Tags: Rotorama Spectre,Rotorama,6inch,Emax,LS2207,1900kv,Gemfan 6042x3,Flyduino,
 
 Tags: MBEpic,Cinematic7,7inch,MBPrimo,2208,2150kv,Dal T7056C,DYS Aria 32bit,BrainFPV,Radix,BrainPDB,Foxeer Predator v2,Matek VTX-HV,Rush 5s 1300mAh
 
-Tags: Flosstyle,6inch,BHR3,Gemfan 6042x3,Racerstar PG50 4in1,Helio Spring FC,Runcam Swift,Matek VTX-HV,Acehe 5s 1300mAh
+Tags: Flosstyle,6inch,BHR3,Gemfan 6042x3,Hobbywing 45A 4in1,Helio Spring FC,Runcam Swift,Matek VTX-HV,CNHL 6s 1000mAh

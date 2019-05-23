@@ -1,0 +1,103 @@
+# diff
+
+# version
+# Betaflight / FURYF4OSD (FY4O) 3.5.4 Dec 17 2018 / 11:54:25 (66b8ea143) MSP API: 1.40
+
+board_name FURYF4OSD
+manufacturer_id 
+
+# name
+name MPQuad130
+
+# resources
+resource MOTOR 1 B00
+resource MOTOR 2 A02
+resource MOTOR 3 A03
+resource MOTOR 4 B01
+
+# mixer
+
+# servo
+
+# servo mix
+
+
+# feature
+feature TELEMETRY
+feature AIRMODE
+
+# beeper
+
+# beacon
+
+# map
+
+# serial
+serial 2 2048 115200 57600 0 115200
+serial 5 32 115200 57600 0 115200
+
+# led
+
+# color
+
+# mode_color
+
+# aux
+aux 0 0 0 1700 2100 0 0
+aux 1 1 1 1400 2100 0 0
+aux 2 13 2 1700 2100 0 0
+aux 3 36 3 1700 2100 0 0
+
+# adjrange
+
+# rxrange
+
+# vtx
+
+# rxfail
+
+# master
+set gyro_lowpass_hz = 200
+set gyro_lowpass2_hz = 400
+set rssi_channel = 16
+set rc_smoothing_type = FILTER
+set blackbox_p_ratio = 64
+set blackbox_device = NONE
+set motor_pwm_protocol = DSHOT600
+set align_board_yaw = 90
+set current_meter = ADC
+set yaw_motors_reversed = ON
+set osd_warn_core_temp = OFF
+set osd_vbat_pos = 2443
+set osd_rssi_pos = 2412
+set osd_tim_2_pos = 2455
+set osd_mah_drawn_pos = 2433
+set osd_warnings_pos = 329
+set osd_stat_max_spd = OFF
+set osd_stat_bbox = OFF
+set osd_stat_bb_no = OFF
+set debug_mode = GYRO_SCALED
+set vtx_power = 2
+
+# profile
+profile 0
+
+set dterm_lowpass_hz = 200
+set dterm_lowpass2_hz = 0
+set dterm_notch_cutoff = 0
+set p_pitch = 43
+set d_pitch = 30
+set p_roll = 37
+set i_roll = 47
+set d_roll = 28
+set p_yaw = 60
+set i_yaw = 50
+
+# rateprofile
+rateprofile 0
+
+set yaw_rc_rate = 120
+set roll_srate = 68
+set pitch_srate = 68
+
+# 
