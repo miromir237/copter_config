@@ -24,7 +24,7 @@ With Matek F405 AIO, Racerstar Tatto 35A ESC it flies almost perfectly. It is on
 
 Decommisioned after crash where I broke one arm. Kept for spares. BHR3 were moved to new frame (Flosstyle 6") I bought.
 
-## AmaxInno Freestyle 7" v2
+## AmaxInno Freestyle 7" v2 - currently on shelf
 Initialy planned as longrange copter but the frame body is very small, berely to fit basic electronics. I was very much strugling with jello on v1 version of the frame. AmaxInno released v2 recently with 6mm arms and I immediately went for it. Swapped the frame and jello is gone, almost.
 It is now running HeliRC Sping FC, Racerstart PG50 4in1 ESC, iFlight Tachyon 2207 1750kv motors and I am currently in test/tunning phase. So far it looks promissing but I will probably switch from Butter to Betaflight.
 I have replaced electronics with Matek F405-AIO and Racerstar Tatto 35A ESC from AmaxInno Freestyle 7" v1 that was decommisioned.
@@ -52,6 +52,8 @@ I was deciding for too long but at last when a colleague was on bussiness travel
 Used the DYS Aria 32bit ESCs from M250v4 and other electronics from AmaxInno Freestyle 7" v2 number 2 (BrainFPV RadixFC and PDB + Matek-VTX HV + R9 Slim as reciver).
 I replaced caps on ESCs with 220uF 50V althoug that was not neccesary. There is plenty room for VTX and receiver and RAdix with it's PDB fitted well. Pretty happy how it came out.
 Stuffed with KISS electronics from Dingo6". Giving a shot to KISS on 7".
+
+This KISS thingie did not workout. There is some catch and copter keeps crashing and I am not able to find out why. Thus I grabbed the internals of AmaxInno Freestyle 7" v2 #1 and put them in. KISS is back on Ding6 but will have to wait till I solder it back together.
 
 ## Flosssyle 6"
 Build from spare parts I had after AmaxInno Freestyle 7" v1 crash. It's running BHR3 1660kv, BrainFPV Radix FC, HobbyWing 45A 4in1, Runcam Swift, Matek VTX-HV and Gemfan 6042x3. The kv is really low and it needs at least 5s to fly as I wish. 6s seems to be best for it. It'll need bit more tunning. It's kind of wobbly and the feel is not as good as on Dingo6. Frame it self is fine, well designed and thought. If you use recommended parts you're ok.

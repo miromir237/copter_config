@@ -34,7 +34,7 @@ FPV cam - Foxeer Predator Mini v2
 VTX - TBS UnifyHV
 Battery - Acehe 4s 1500mAh
 
-MPQUAD290v1 
+MPQUAD290v1 - put on shelf
 -----------
 Frame - AmaxInno Freestyle 7" v2
 Motors - iFlight Tachyon 2207 1750kv
@@ -85,18 +85,17 @@ MPEpic7
 Frame - MBEpic Cinematic7
 Motors - MBPrimo 2208 1250kv
 Prop - Dal T7056C
-ESC - KISS 32A
-FC - KISSv2
-PDB - DYSF4Pro v2
+ESC - Racerstar Tatto 35A
+FC - Matek F405 AIO
 FPV cam - Foxeer Predator Mini v2
 VTX - Matek VTX-HV
 Battery - Turnigy Graphene 5s 1800mAh
 
-Tags: AmaxInno,Freestyle,7inch,iFlight,Tachyon,2207,1750kv,Dal T7056C,Racerstar Tatto 35A,Matek F405 AIO,Foxeer Falkor Mini,Matek VTX-HV,Acehe 5s 1300mAh
+##Tags: AmaxInno,Freestyle,7inch,iFlight,Tachyon,2207,1750kv,Dal T7056C,Racerstar Tatto 35A,Matek F405 AIO,Foxeer Falkor Mini,Matek VTX-HV,Acehe 5s 1300mAh
 
 Tags: Rotorama Spectre,Rotorama,6inch,Emax,LS2207,1900kv,Gemfan 6042x3,Flyduino,KISSv2,KISS 25A,Foxeer Predator,TBS UnifyHV,Rush 5s 1300mAh
 
-Tags: MBEpic,Cinematic7,7inch,MBPrimo,2208,2150kv,Dal T7056C,Flyduino,KISSv2,KISS 32A,Foxeer Falkor Micro,Matek VTX-HV,Rush 5s 1300mAh
+Tags: MBEpic,Cinematic7,7inch,MBPrimo,2208,2150kv,Dal T7056C,Racerstar Tatto 35A,Matek F405 AIO,Foxeer Falkor Micro,Matek VTX-HV,Rush 5s 1300mAh
 
 Tags: Flosstyle,6inch,BHR3,Gemfan 6042x3,Hobbywing 45A 4in1,BrainFPV,Radix,Foxeer Falkor Micro,Matek VTX-HV,CNHL 6s 1000mAh
 
@@ -106,3 +105,4 @@ Tags: Flosstyle,6inch,BHR3,Gemfan 6042x3,Hobbywing 45A 4in1,BrainFPV,Radix,Foxee
 
 ##Tags: SabotageRC,SabotageRC Dingo,6inch,BrotherHobby,BHR5,2207,2400kv,Gemfan 6042x3,Flyduino,KISSv2,KISS 32A,Foxeer Falkor Micro,Foxeer ClearTxV2,Rush 5s 1300mAh
 
+Tags: MartinII 220,5inch,T-Motor 5143,T-Motor F40III,2400kv,Flyduino,KISSv1,KISS 24A RE,Foxeer Predator Mini,Matek VTX-HV,Acehe 4s 1500mAh
