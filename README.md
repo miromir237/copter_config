@@ -4,7 +4,7 @@ Betaflight/Butterflight config files for my copters
 ## M220
 MartianII 220 - 5" Alien style copter. Originaly running with Matek F405-AIO, Racerstart Tatoo 35Amp ESCs and T-Motor F40 III motors. Currently rebuild to run on KISS electronics.
 
-## M250v2
+## M250v2 - Sold
 MartianII 250 - 6" Alien style copter. Build with DYS Storm motors listening to Spedix30a BLHeli32 ESCs and Matek FCHUB-VTX + F405-STD combo. Sold to fellow fpv pilot.
 
 ## M250v4 - Decommisioned
