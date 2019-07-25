@@ -1,13 +1,13 @@
 # copter_config
 Betaflight/Butterflight config files for my copters
 
-## M220
+## M220 - Sold
 MartianII 220 - 5" Alien style copter. Originaly running with Matek F405-AIO, Racerstart Tatoo 35Amp ESCs and T-Motor F40 III motors. Currently rebuild to run on KISS electronics.
 
 ## M250v2 - Sold
 MartianII 250 - 6" Alien style copter. Build with DYS Storm motors listening to Spedix30a BLHeli32 ESCs and Matek FCHUB-VTX + F405-STD combo. Sold to fellow fpv pilot.
 
-## M250v4 - Decommisioned
+## M250v4 - Decommisioned and frame sold
 MartianII 250 - 6" Alien style copter. Currently running BrotherHobby R5 2400kv motors  on DYS Aria ESCs and Matek FCHUB-VTX + F405-STD combo.
 
 The best flying experience is with 5.5" propellers. I especialy like Gemfan 5552 but they are killing my betteries. I am currently running Dalprop T5544C which seem to be a sweetspot for efficiency and good flying experience.
@@ -29,7 +29,7 @@ Initialy planned as longrange copter but the frame body is very small, berely to
 It is now running HeliRC Sping FC, Racerstart PG50 4in1 ESC, iFlight Tachyon 2207 1750kv motors and I am currently in test/tunning phase. So far it looks promissing but I will probably switch from Butter to Betaflight.
 I have replaced electronics with Matek F405-AIO and Racerstar Tatto 35A ESC from AmaxInno Freestyle 7" v1 that was decommisioned.
 
-## AmaxInno Freestyle 7" v2 number 2 - Decommisioned
+## AmaxInno Freestyle 7" v2 number 2 - Decommisioned and frame sold
 I was very much pleased with AmaxInno Freestyle 7" v2 so I bought one more. I am runnig it with Racerstar 35A BLHeli_S esc, RadixFC and iFlight Tachyon 2207 1750kv motors.
 Electronics moved to MBEpic Cinematic7 and replaced with Matek-F405-STD from M250v4. Flies but will need some more tunning on BTFL40.
 Decided to decrease my fleet a bit. Frame sold to fellow pilot. Electronics kept fo spares.
@@ -37,7 +37,7 @@ Decided to decrease my fleet a bit. Frame sold to fellow pilot. Electronics kept
 ## Eclair 3"
 Build for my son. Running Superman 4850kv motors, HGLRC F4 Mini and HGLRC F330 ESC. R-XSR, HGLRC mini VTX and Runcam DVR module. It is very mellow flier on 3s.
 
-## IntrepidV2
+## IntrepidV2 transfered to IH3 frame
 AirbladeAUV IntrepidV2 Pro 3" built as portable cinematic quad. Runcam Split Mini V2 inside taking some nice FullHD video. Nope, it cam with wierd lenses that leave edges of the image blured even after re-focusing. FPV feed is super noisy and I will have to put some LC filter between the cam and power leads. REally frustrating.
 Quad it self flies really nice. Not much jello, only on hard throttle. I have to lear fly it though. It's quite a bit different than my bigger birds.
 
@@ -52,8 +52,6 @@ I was deciding for too long but at last when a colleague was on bussiness travel
 Used the DYS Aria 32bit ESCs from M250v4 and other electronics from AmaxInno Freestyle 7" v2 number 2 (BrainFPV RadixFC and PDB + Matek-VTX HV + R9 Slim as reciver).
 I replaced caps on ESCs with 220uF 50V althoug that was not neccesary. There is plenty room for VTX and receiver and RAdix with it's PDB fitted well. Pretty happy how it came out.
 Stuffed with KISS electronics from Dingo6". Giving a shot to KISS on 7".
-
-This KISS thingie did not workout. There is some catch and copter keeps crashing and I am not able to find out why. Thus I grabbed the internals of AmaxInno Freestyle 7" v2 #1 and put them in. KISS is back on Ding6 but will have to wait till I solder it back together.
 
 ## Flosssyle 6"
 Build from spare parts I had after AmaxInno Freestyle 7" v1 crash. It's running BHR3 1660kv, BrainFPV Radix FC, HobbyWing 45A 4in1, Runcam Swift, Matek VTX-HV and Gemfan 6042x3. The kv is really low and it needs at least 5s to fly as I wish. 6s seems to be best for it. It'll need bit more tunning. It's kind of wobbly and the feel is not as good as on Dingo6. Frame it self is fine, well designed and thought. If you use recommended parts you're ok.
