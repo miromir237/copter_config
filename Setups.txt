@@ -1,12 +1,12 @@
 
-MPQUAD250v4 - decommisioned
+MPQUAD250v4 - partly sold
 -----------
-Frame - MartianII 250
+Frame - MartianII 250 - sold
 Motors - BrotherHobby R5 2400kv 
 Props - Emax Avan 6038 / Gemafan 6042x3
 ESC - DYS Aria
-FC - Matek F405-STD running Betafligh on 8k/2k loops
-PDB - Matek FCHUB-VTX
+FC - Matek F405-STD running Betafligh on 8k/2k loops - sold
+PDB - Matek FCHUB-VTX - sold
 RC link - R9M Slim
 FPV cam - Foxeer Predator Mini v2
 Battery - Acehe 4s 1500mAh
@@ -34,28 +34,16 @@ FPV cam - Foxeer Predator Mini v2
 VTX - TBS UnifyHV
 Battery - Acehe 4s 1500mAh
 
-MPQUAD290v1 - put on shelf
+MPQUAD290 - put on shelf
 -----------
 Frame - AmaxInno Freestyle 7" v2
-Motors - iFlight Tachyon 2207 1750kv
-Prop - Dal T7056C
-ESC - Racerstar Tatto 35A
-FC - Matek F722-SE AIO
-FPV cam - Foxeer Falkor Mini
+Motors - 
+Prop - 
+ESC - 
+FC - 
+FPV cam - 
 VTX - Matek VTX-HV 
-Battery - Acehe 5s 1300mAh
-
-MPQUAD290v2 - decommisioned
------------
-Frame - AmaxInno Freestyle 7" v2
-Motors - iFlight Tachyon 2207 1750kv
-Prop - Dal T7056C
-ESC - Racerstar 35A BLHeli_S
-FC - Matek F405-STD 
-PDB - Matek FCHUB-VTX
-FPV cam - Foxeer Falkor Micro
-VTX - Matek VTX-HV
-Battery - Rush 5s 1300mAh
+Battery - 
 
 Dingo 6"
 -----------
