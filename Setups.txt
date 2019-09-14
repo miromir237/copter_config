@@ -11,7 +11,7 @@ RC link - R9M Slim
 FPV cam - Foxeer Predator Mini v2
 Battery - Acehe 4s 1500mAh
 
-MPQUAD220
+MPQUAD220 - sold
 ---------
 Frame - MartianII 220
 Motors - T-Motor F40 III 2400kv
@@ -40,7 +40,7 @@ Frame - AmaxInno Freestyle 7" v2
 Motors - iFlight Tachyon 2207 1750kv
 Prop - Dal T7056C
 ESC - Racerstar Tatto 35A
-FC - Matek F405 AIO
+FC - Matek F722-SE AIO
 FPV cam - Foxeer Falkor Mini
 VTX - Matek VTX-HV 
 Battery - Acehe 5s 1300mAh
