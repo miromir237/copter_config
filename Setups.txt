@@ -8,8 +8,8 @@ ESC - DYS Aria
 FC - Matek F405-STD running Betafligh on 8k/2k loops - sold
 PDB - Matek FCHUB-VTX - sold
 RC link - R9M Slim
-FPV cam - Foxeer Predator Mini v2
-Battery - Acehe 4s 1500mAh
+FPV cam - Foxeer Predator Mini v2 - sold
+Battery - Acehe 4s 1500mAh - sold
 
 MPQUAD220 - sold
 ---------
@@ -32,7 +32,7 @@ ESC - KISS 4in1 25A
 FC - KISS v2
 FPV cam - Foxeer Predator Mini v2
 VTX - TBS UnifyHV
-Battery - Acehe 4s 1500mAh
+Battery - Turnigy Graphene 5s 1800mAh
 
 MPQUAD290 - put on shelf
 -----------
@@ -45,10 +45,10 @@ FPV cam -
 VTX - Matek VTX-HV 
 Battery - 
 
-Dingo 6"
+Dingo 6" - ready to be sold
 -----------
 Frame - SabotageRC Dingo 6"
-Motors - BrotherHobby R3 2207 1660kv
+Motors - iFlight Tachyon 2207 1750kv
 Prop - Gemfan 6042x3
 ESC - HobbyWing 45A 4in1
 FC - BrainFPV Radix FC
@@ -57,7 +57,7 @@ VTX - Matek VTX-HV
 Battery - CNHL 6s 1000mAh
 
 
-ImpulseRC Reverb
+ImpulseRC Reverb - Lost
 -----------
 Frame - ImpulseRC Reverb
 Motors - BrotherHobby R3 2207 1660kv
@@ -66,16 +66,16 @@ ESC - KISS 32A
 FC - KISSv2
 FPV cam - Foxeer Falkor Micro
 VTX - Foxeer ClearTXv2 with LollipopV2
-Battery - CNHL 6s 1000mAh
+Battery - Rush 5S 1300mAh
 
-MPEpic7
+MPEpic7 - Sold
 -----------
 Frame - MBEpic Cinematic7
-Motors - iFlight Tachyon 2207 1750kv
+Motors - BrotherHobby Avenger 2806.5 1700kv
 Prop - Dal T7056C
 ESC - Racerstar Tatto 35A
 FC - Matek F722 SE AIO
-FPV cam - Foxeer Predator Mini v2
+FPV cam - Foxeer Falkor Mini 
 VTX - Matek VTX-HV
 Battery - Turnigy Graphene 5s 1800mAh
 
@@ -91,5 +91,5 @@ Tags: SaborageRC Dingo,6inch,BHR3,Gemfan 6042x3,Hobbywing 45A 4in1,BrainFPV,Radi
 
 ##Tags: AmaxInno,Freestyle,7inch,iFlight,Tachyon,2207,1750kv,Dal T7056C,Racerstar SPROG 35A BLHeli_S,BrainFPV Radix,Foxeer Falkor Micro,Matek VTX-HV,Rush 5s 1300mAh
 
-Tags: ImpulseRC,Reverb,BrotherHobby,BHR3,2207,1660kv,Dalprop,T5047C,Flyduino,KISSv2,KISS 32A,Foxeer Falkor Micro,Foxeer ClearTxV2,CNHL 6s 1000mAh
+##Tags: ImpulseRC,Reverb,BrotherHobby,BHR3,2207,1660kv,Dalprop,T5047C,Flyduino,KISSv2,KISS 32A,Foxeer Falkor Micro,Foxeer ClearTxV2,CNHL 6s 1000mAh
 

@@ -37,22 +37,23 @@ Decided to decrease my fleet a bit. Frame sold to fellow pilot. Electronics kept
 ## Eclair 3"
 Build for my son. Running Superman 4850kv motors, HGLRC F4 Mini and HGLRC F330 ESC. R-XSR, HGLRC mini VTX and Runcam DVR module. It is very mellow flier on 3s.
 
-## IntrepidV2 transfered to IH3 frame
+## IntrepidV2 transfered to IH3 frame - Sold
 AirbladeAUV IntrepidV2 Pro 3" built as portable cinematic quad. Runcam Split Mini V2 inside taking some nice FullHD video. Nope, it cam with wierd lenses that leave edges of the image blured even after re-focusing. FPV feed is super noisy and I will have to put some LC filter between the cam and power leads. REally frustrating.
 Quad it self flies really nice. Not much jello, only on hard throttle. I have to lear fly it though. It's quite a bit different than my bigger birds.
 
-## Dingo 6" - currently on shelf
+## Dingo 6" - ready to be sold
 Basically got caught in Xmas discounts and bough bunch of KISS ESCs, this frame and newly realease ClearTXv2. Supplied it with KISSv2 FC, motors, LEDs, Foxeer Falkor, etc. and now it flies 6s no problem.
 Really low noise profile. The frame seems to be really stiff. Overall very pleased.
 Motors replaced 23.4.2019 with BHR5 2400kv after I bent shaft on one of the Tachyons (I have let a fellow runner try to fly it - never again).
 Took the KISS stuf and put it into MB Epic on which I blew up one ESC and I am not willing to buy more stuff right now.
+It is rocking BrainFPV Radix FC + HobbyWing 45A 4in1 combo, Foxeer Falkor, Matek VTX-HV and R9MM.
 
-## MB Epic Cinematic7
+## MB Epic Cinematic7 - Sold
 I was deciding for too long but at last when a colleague was on bussiness travel to US I went for it and ordered it also with MBPrimos 2150kv.
 Used the DYS Aria 32bit ESCs from M250v4 and other electronics from AmaxInno Freestyle 7" v2 number 2 (BrainFPV RadixFC and PDB + Matek-VTX HV + R9 Slim as reciver).
 I replaced caps on ESCs with 220uF 50V althoug that was not neccesary. There is plenty room for VTX and receiver and RAdix with it's PDB fitted well. Pretty happy how it came out.
 Stuffed with KISS electronics from Dingo6". Giving a shot to KISS on 7".
 
-## Flosssyle 6"
+## Flosssyle 6" - disassembled and frame on shelf
 Build from spare parts I had after AmaxInno Freestyle 7" v1 crash. It's running BHR3 1660kv, BrainFPV Radix FC, HobbyWing 45A 4in1, Runcam Swift, Matek VTX-HV and Gemfan 6042x3. The kv is really low and it needs at least 5s to fly as I wish. 6s seems to be best for it. It'll need bit more tunning. It's kind of wobbly and the feel is not as good as on Dingo6. Frame it self is fine, well designed and thought. If you use recommended parts you're ok.
 It seems that gyro on Helio Spring died after a crash. 1s replaced ESC (Racerstart PG50), twitches still there. Replaced FC with Radix, twitches gone for now.
