@@ -1,3 +1,16 @@
+Marmotte
+-----------
+Frame - Armattan Marmotte DJI edition
+Motors - Emax LS2207 1900kv
+Prop - Dalprop T5040C
+ESC - KISS 4in1 25A
+FC - KISSv2
+FPV cam - DJI camera
+VTX - DJI VTX
+Battery - Acehe 5S 1300mAh
+
+
+
 
 MPQUAD250v4 - partly sold
 -----------
@@ -23,7 +36,7 @@ VTX - Matek VTX-HV
 FPV cam - Foxeer Predator Mini
 Battery - Acehe 4s 1500mAh
 
-Spectre
+Spectre - frame sold, part reused
 ---------
 Frame - Rotorama Spectre
 Motors - Emax LS2207 1900kv
