@@ -6,13 +6,11 @@ Prop - Dalprop T5040C
 ESC - KISS 4in1 25A
 FC - KISSv2
 FPV cam - DJI camera
+HD cam - GoPro Hero7/Session5
 VTX - DJI VTX
-Battery - Acehe 5S 1300mAh
+Battery - Turnigy Graphene 5s 1800mAh
 
-
-
-
-MPQUAD250v4 - partly sold
+MPQUAD250v4 - sold
 -----------
 Frame - MartianII 250 - sold
 Motors - BrotherHobby R5 2400kv 
@@ -47,7 +45,7 @@ FPV cam - Foxeer Predator Mini v2
 VTX - TBS UnifyHV
 Battery - Turnigy Graphene 5s 1800mAh
 
-MPQUAD290 - put on shelf
+MPQUAD290 - sold/resused
 -----------
 Frame - AmaxInno Freestyle 7" v2
 Motors - 
@@ -58,7 +56,7 @@ FPV cam -
 VTX - Matek VTX-HV 
 Battery - 
 
-Dingo 6" - ready to be sold
+Dingo 6" - sold
 -----------
 Frame - SabotageRC Dingo 6"
 Motors - iFlight Tachyon 2207 1750kv
