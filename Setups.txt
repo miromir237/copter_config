@@ -8,7 +8,7 @@ FC - KISSv2
 FPV cam - DJI camera
 HD cam - GoPro Hero7/Session5
 VTX - DJI VTX
-Battery - Turnigy Graphene 5s 1800mAh
+Battery - DemonRC 666c 5s 1100mAh
 
 MPQUAD250v4 - sold
 -----------
