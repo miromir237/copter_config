@@ -1,8 +1,8 @@
 Marmotte
 -----------
 Frame - Armattan Marmotte DJI edition
-Motors - Emax LS2207 1900kv
-Prop - Dalprop T5040C
+Motors - Armattan Underdog 2306 2150kv
+Prop - Ethix S3
 ESC - KISS 4in1 25A
 FC - KISSv2
 FPV cam - DJI camera
