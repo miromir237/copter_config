@@ -1,10 +1,10 @@
 Badger
 -----------
 Frame  - Armattan Badger 6" DJI edition
-Motors - Emax LS2207 1900kv
+Motors - Konasty Moonboots 1739kv
 Prop   - GF 6042x3
 ESC    - FETtec 45A 4in1
-FC     - KISSv1
+FC     - FETtec F7
 HD cam - GoPro Hero7/Session5
 VTX    - DJI VTX
 Battery - Turnigy Graphene 5s 1800mAh
