@@ -1,3 +1,27 @@
+Marmotte
+-----------
+Frame - Armattan Marmotte DJI edition
+Motors - Armattan Underdog 2306 2150kv
+Prop - Ethix S3
+ESC - KISS 32A
+FC - KISSv1
+FPV cam - DJI camera
+HD cam - GoPro Session5
+VTX - DJI VTX
+Battery - DemonRC 666c 5s 1100mAh
+
+Halorc Osiris
+-------------
+Frame - Halorc Osiris
+Motors - Emax LS2207 1900kv
+Prop - Ethix S3
+ESC - KISS 4in1 25A
+FC - KISSv2
+FPV cam - DJI camera
+HD cam - GoPro Session5
+VTX - Caddx Vista
+Battery - DemonRC 666c 5s 1100mAh
+
 Badger - lost in the Atlantic ocean
 -----------
 Frame  - Armattan Badger 6" DJI edition
@@ -9,22 +33,10 @@ HD cam - GoPro Hero7/Session5
 VTX    - DJI VTX
 Battery - Turnigy Graphene 5s 1800mAh
 
-Marmotte
------------
-Frame - Armattan Marmotte DJI edition
-Motors - Armattan Underdog 2306 2150kv
-Prop - Ethix S3
-ESC - KISS 4in1 25A
-FC - KISSv2
-FPV cam - DJI camera
-HD cam - GoPro Hero7/Session5
-VTX - DJI VTX
-Battery - DemonRC 666c 5s 1100mAh
-
 MPQUAD250v4 - sold
 -----------
 Frame - MartianII 250 - sold
-Motors - BrotherHobby R5 2400kv 
+Motors - BrotherHobby R5 2400kv
 Props - Emax Avan 6038 / Gemafan 6042x3
 ESC - DYS Aria
 FC - Matek F405-STD running Betafligh on 8k/2k loops - sold
@@ -59,13 +71,13 @@ Battery - Turnigy Graphene 5s 1800mAh
 MPQUAD290 - sold/resused
 -----------
 Frame - AmaxInno Freestyle 7" v2
-Motors - 
-Prop - 
-ESC - 
-FC - 
-FPV cam - 
-VTX - Matek VTX-HV 
-Battery - 
+Motors -
+Prop -
+ESC -
+FC -
+FPV cam -
+VTX - Matek VTX-HV
+Battery -
 
 Dingo 6" - sold
 -----------
@@ -75,7 +87,7 @@ Prop - Gemfan 6042x3
 ESC - HobbyWing 45A 4in1
 FC - BrainFPV Radix FC
 FPV cam - Foxeer Falkor Micro
-VTX - Matek VTX-HV 
+VTX - Matek VTX-HV
 Battery - CNHL 6s 1000mAh
 
 
@@ -97,7 +109,7 @@ Motors - BrotherHobby Avenger 2806.5 1700kv
 Prop - Dal T7056C
 ESC - Racerstar Tatto 35A
 FC - Matek F722 SE AIO
-FPV cam - Foxeer Falkor Mini 
+FPV cam - Foxeer Falkor Mini
 VTX - Matek VTX-HV
 Battery - Turnigy Graphene 5s 1800mAh
 
@@ -114,4 +126,3 @@ Tags: SaborageRC Dingo,6inch,BHR3,Gemfan 6042x3,Hobbywing 45A 4in1,BrainFPV,Radi
 ##Tags: AmaxInno,Freestyle,7inch,iFlight,Tachyon,2207,1750kv,Dal T7056C,Racerstar SPROG 35A BLHeli_S,BrainFPV Radix,Foxeer Falkor Micro,Matek VTX-HV,Rush 5s 1300mAh
 
 ##Tags: ImpulseRC,Reverb,BrotherHobby,BHR3,2207,1660kv,Dalprop,T5047C,Flyduino,KISSv2,KISS 32A,Foxeer Falkor Micro,Foxeer ClearTxV2,CNHL 6s 1000mAh
-
