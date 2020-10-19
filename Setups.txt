@@ -1,26 +1,28 @@
 Marmotte
 -----------
 Frame - Armattan Marmotte DJI edition
-Motors - Armattan Underdog 2306 2150kv
+Motors - AmaxInno Superleggera 2305.5 1950kv
 Prop - Ethix S3
 ESC - KISS 32A
-FC - KISSv1
+FC - KISSv2
 FPV cam - DJI camera
 HD cam - GoPro Session5
 VTX - DJI VTX
-Battery - DemonRC 666c 5s 1100mAh
+Battery - Ovonic 1000mAh 6s
+          DemonRC 666c 5s 1100mAh
 
 Halorc Osiris
 -------------
 Frame - Halorc Osiris
 Motors - Emax LS2207 1900kv
 Prop - Ethix S3
-ESC - KISS 4in1 25A
-FC - KISSv2
+ESC - FETtec 45A 4in1
+FC - FETtec F7
 FPV cam - DJI camera
 HD cam - GoPro Session5
 VTX - Caddx Vista
-Battery - DemonRC 666c 5s 1100mAh
+Battery - Ovonic 1000mAh 6s
+          DemonRC 666c 5s 1100mAh
 
 Badger - lost in the Atlantic ocean
 -----------
