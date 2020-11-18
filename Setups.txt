@@ -14,7 +14,7 @@ Battery - Ovonic 1000mAh 6s
 Halorc Osiris
 -------------
 Frame - Halorc Osiris
-Motors - Emax LS2207 1900kv
+Motors - AmaxInno Performante 2306 1950kv
 Prop - Ethix S3
 ESC - FETtec 45A 4in1
 FC - FETtec F7
@@ -23,6 +23,7 @@ HD cam - GoPro Session5
 VTX - Caddx Vista
 Battery - Ovonic 1000mAh 6s
           DemonRC 666c 5s 1100mAh
+          Dinogy 2200mAh 4s
 
 Badger - lost in the Atlantic ocean
 -----------
