@@ -25,6 +25,17 @@ Battery - Ovonic 1000mAh 6s
           DemonRC 666c 5s 1100mAh
           Dinogy 2200mAh 4s
 
+CrissCross Fire Dragonfly
+-------------------------
+Frame - #crisscross Fire Drangonfly
+FC - #kiss v1
+ESC - #kiss25a 4in1
+Motor - #Emax LS2207 1900kv
+Prop - #Ethix P3
+Battery - #Infinity 2200mAh 4S
+VTX&Cam - #Caddx Vista
+RC link - #tbscrossfire
+
 Badger - lost in the Atlantic ocean
 -----------
 Frame  - Armattan Badger 6" DJI edition
