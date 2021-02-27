@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <title>KISS PD ratio calculator</title>
+  </head>
+  <body>
+    <h1>KISS PD ratio calculator</h1>
+    <p>This is very simple script to help with tuning KISS flight controller. It is based on the "half - 30%" rule where D = (10*P) / 2 - 30%</p>
+    <p>Also P is 15-20% higher on Pitch axis usually as there is more momentum to carry. Depends on the quad frame (usually applies to bus style with top mounted battery).</p>
+    <p><a href="https://www.youtube.com/watch?v=LGzKILCC2nA&ab_channel=KrazyFPV" target="_blank">Source</a></p>
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js" integrity="sha384-KsvD1yqQ1/1+IA7gi3P0tyJcT3vR+NdBTt13hSJ2lnve8agRGXTTyNaBYmCR/Nwi" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.min.js" integrity="sha384-nsg8ua9HAw1y0W1btsyWgBklPnCUAFLuTMS2G72MMONqmOymq585AcH49TLBQObG" crossorigin="anonymous"></script>
+    -->
+    <script>
+        function calcKISSPD()
+        {
+            let pitchp = $("#p_pitch").val();
+            let pitchd_tmp = ((10*pitchp) / 2);
+            let pitchd = pitchd_tmp - (pitchd_tmp*0.3);
+
+            let rollp = pitchp - (pitchp * 0.1);
+            let rolld = pitchd - (pitchd * 0.1);
+            
+            $("#d_pitch").val(pitchd);
+            $("#p_roll").val(rollp);
+            $("#d_roll").val(rolld);
+
+        }
+        $(function()
+        {
+            $(".qty").on("change keyup",calcKISSPD)
+        })
+    </script>
+    <div class="container mt-4">
+        <div class="row">
+          <div class="col-6 row-heading">
+            Axis
+          </div>
+          <div class="col-3 row-heading">
+            P
+          </div>
+          <div class="col-2 row-heading">
+            D
+          </div>
+        </div>
+        <div class="row">
+            <div class="col-6">
+              Pitch
+            </div>
+            <div class="col-3">
+              <input type="number" value="3" class="qty" id="p_pitch"/>
+            </div>
+            <div class="col-2">
+              <input type="number" readonly value="10" id="d_pitch"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6">
+              Roll
+            </div>
+            <div class="col-3">
+              <input type="number" readonly value="3" id="p_roll"/>
+            </div>
+            <div class="col-2">
+              <input type="number" readonly value="10" id="d_roll"/>
+            </div>
+          </div>
+  </body>
+</html>
