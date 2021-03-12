@@ -2,7 +2,7 @@ Marmotte
 -----------
 Frame - Armattan Marmotte DJI edition
 Motors - AmaxInno Superleggera 2305.5 1950kv
-Prop - Ethix S3
+Prop - Ethix P3
 ESC - KISS 32A
 FC - KISSv2
 FPV cam - DJI camera
@@ -15,7 +15,7 @@ Halorc Osiris
 -------------
 Frame - Halorc Osiris
 Motors - AmaxInno Performante 2306 1950kv
-Prop - Ethix S3
+Prop - Gemfan 6042x3
 ESC - FETtec 45A 4in1
 FC - FETtec F7
 FPV cam - DJI camera
@@ -25,7 +25,7 @@ Battery - Ovonic 1000mAh 6s
           DemonRC 666c 5s 1100mAh
           Dinogy 2200mAh 4s
 
-CrissCross Fire Dragonfly
+CrissCross Fire Dragonfly - broken
 -------------------------
 Frame - #crisscross Fire Drangonfly
 FC - #kiss v1
