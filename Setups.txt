@@ -1,23 +1,23 @@
 Marmotte DJI
 -----------
-Frame - Armattan Marmotte DJI edition
-Motors - AmaxInno Superleggera 2305.5 1950kv
-Prop - Ethix P3
-ESC - KISS 32A
-FC - KISSv2
-FPV cam - DJI camera
+Frame - #Armattan Marmotte DJI edition
+Motors - #AmaxInno Superleggera 2305.5 1950kv
+Prop - #Ethix P3
+ESC - #KISS32A
+FC - #KISSv2
+FPV cam - #DJI camera
 HD cam - GoPro Session5
-VTX - DJI VTX
+VTX - #Caddx Vista
 Battery - Ovonic 1000mAh 6s
           DemonRC 666c 5s 1100mAh
 
-Halorc Osiris
+Halorc Osiris - dismanteled
 -------------
 Frame - Halorc Osiris
 Motors - AmaxInno Performante 2306 1950kv
 Prop - Gemfan 6042x3
-ESC - FETtec 45A 4in1
-FC - FETtec F7
+ESC - kiss25a4in1
+FC - kissv1
 FPV cam - DJI camera
 HD cam - GoPro Session5
 VTX - Caddx Vista
@@ -29,12 +29,13 @@ Marmotte
 -------------------------
 Frame - #Armattan Marmotte
 Motors - #AmaxInno Superleggera 2305.5 1950kv
-FC - #kiss v1
-ESC - #kiss25a 4in1
+FC - #FETtec F7
+ESC - #FETtec 45A 4in1
 Prop - #Ethix P3
 Battery - #Ovonic 1000mAh 6s
 VTX&Cam - #Caddx Vista
 RC link - #tbscrossfire
+Battery - Ovonic 1000mAh 6s
 
 CrissCross Fire Dragonfly - broken
 -------------------------
