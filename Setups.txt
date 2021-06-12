@@ -1,5 +1,5 @@
 Marmotte DJI
------------
+-------------------------
 Frame - #Armattan Marmotte DJI edition
 Motors - #AmaxInno Performante 2306 1950kv
 Prop - #Ethix P3
@@ -10,20 +10,6 @@ HD cam - GoPro Session5
 VTX - #Caddx Vista
 Battery - Ovonic 1000mAh 6s
           DemonRC 666c 5s 1100mAh
-
-Halorc Osiris - dismanteled
--------------
-Frame - Halorc Osiris
-Motors - AmaxInno Performante 2306 1950kv
-Prop - Gemfan 6042x3
-ESC - kiss25a4in1
-FC - kissv1
-FPV cam - DJI camera
-HD cam - GoPro Session5
-VTX - Caddx Vista
-Battery - #Ovonic 1000mAh 6s
-          #DemonRC 666c 5s 1100mAh
-          #Infinity 2200mAh 4s
 
 Marmotte
 -------------------------
@@ -48,6 +34,18 @@ Prop - #Ethix S3
 Battery - #DemonRC 666c 5s 1100mAh
 VTX&Cam - #Caddx Vista
 RC link - #tbscrossfire
+
+AmaxInno 6FL
+-------------
+Frame - #AmaxInno 6FL
+Motors - #AmaxInno Performante 2306 1950kv
+Prop - #T-Motor 61433
+FC - #FETtec F7
+ESC - #FETtec 45A 4in1
+VTX - #DJI Airunit VTX
+RC link - #tbscrossfire
+HD cam - #Insta360 Go2
+Battery - #Infinity 2200mAh 4s
 
 Badger - lost in the Atlantic ocean
 -----------
