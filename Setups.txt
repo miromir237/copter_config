@@ -38,7 +38,7 @@ RC link - #tbscrossfire
 AmaxInno 6FL
 -------------
 Frame - #AmaxInno 6FL
-Motors - #AmaxInno Performante 2306 1950kv
+Motors - #T-Motor F80 Pro 1900kv
 Prop - #T-Motor 61433
 FC - #FETtec F7
 ESC - #FETtec 45A 4in1
