@@ -41,7 +41,7 @@ Frame - #AmaxInno 6FL
 Motors - #T-Motor F80 Pro 1900kv
 Prop - #T-Motor 61433
 FC - #FETtec F7
-ESC - #FETtec 45A 4in1
+ESC - #Foxeer Reaper 65A 6-8S BlHeli32 DShot1200
 VTX - #DJI Airunit VTX
 RC link - #tbscrossfire
 HD cam - #Insta360 Go2
