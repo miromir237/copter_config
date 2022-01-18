@@ -8,7 +8,7 @@ parser.add_argument('-d','--distance', help="Expected distance", required=True, 
 
 args = parser.parse_args()
 
-avg_speed = 50  # average speed in km/h
+avg_speed = 75  # average speed in km/h
 mininhour = 60  # minutes in 1 hour
 expect_distance = int(args.d) # expected distance in km
 mah_per_min = 100   #power consumption per minute average

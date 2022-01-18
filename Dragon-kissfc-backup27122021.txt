@@ -1,0 +1,158 @@
+{
+  "G_P": [
+    4.2,
+    4.8,
+    8
+  ],
+  "G_I": [
+    0.055,
+    0.07,
+    0.05
+  ],
+  "G_D": [
+    14.5,
+    16.5,
+    5
+  ],
+  "ACCtrim": [
+    0,
+    0
+  ],
+  "RC_Rate": [
+    1.54,
+    1.54,
+    1.6
+  ],
+  "RPY_Expo": [
+    0.64,
+    0.64,
+    0.44
+  ],
+  "RPY_Curve": [
+    0.4,
+    0.4,
+    0.24
+  ],
+  "ACCZero": [
+    0,
+    0,
+    0
+  ],
+  "TPA": [
+    0.4,
+    0,
+    0.4
+  ],
+  "RGB": [
+    0,
+    0,
+    255
+  ],
+  "CBO": [
+    0,
+    0,
+    0
+  ],
+  "AUX": [
+    21,
+    52,
+    37,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "DB": [
+    4,
+    4,
+    4
+  ],
+  "NFE": [
+    0,
+    0
+  ],
+  "NFCF": [
+    200,
+    200
+  ],
+  "NFCO": [
+    100,
+    100
+  ],
+  "ver": 129,
+  "reverseMotors": 1,
+  "launchMode": 0,
+  "A_P": 4,
+  "A_I": 0.04,
+  "A_D": 10,
+  "RXType": 17,
+  "PPMchanOrder": 0,
+  "CopterType": 2,
+  "Active3DMode": 0,
+  "ESConeshot125": 7,
+  "MinCommand16": 1066,
+  "MidCommand16": 1500,
+  "MinThrottle16": 1056,
+  "MaxThrottle16": 2000,
+  "TYmid16": 1500,
+  "TYinv8": 0,
+  "maxAng": 50,
+  "LPF": 1,
+  "ESConeshot42": 0,
+  "failsaveseconds": 0,
+  "BoardRotation": 0,
+  "CustomTPAInfluence": 0,
+  "TPABP1": 30,
+  "TPABP2": 50,
+  "TPABPI1": 30,
+  "TPABPI2": 0,
+  "TPABPI3": 0,
+  "TPABPI4": 100,
+  "BatteryInfluence": 0,
+  "voltage1": 12.8,
+  "voltage2": 14.8,
+  "voltage3": 16.8,
+  "voltgePercent1": 130,
+  "voltgePercent2": 100,
+  "voltgePercent3": 70,
+  "loggerConfig": 0,
+  "vtxChannel": 32,
+  "vbatAlarm": 0,
+  "debugVariables": 0,
+  "mahAlarm": 0,
+  "lipoConnected": 0,
+  "lapTimerTypeAndInterface": 0,
+  "lapTimerTransponderId": 0,
+  "loggerDebugVariables": 0,
+  "YawCfilter": 35,
+  "vtxType": 0,
+  "vtxPowerLow": 25,
+  "vtxPowerHigh": 25,
+  "motorBuzzer": 0,
+  "loopTimeDivider": 0,
+  "yawLpF": 1,
+  "DLpF": 1,
+  "adaptiveFilter": 1,
+  "ledBrightness": 100,
+  "setpointIntoD": 100,
+  "ESCOutputLayout": 0,
+  "SerialSetup": 4163499775,
+  "osdConfig": 2,
+  "rthReturnAltitude": 0,
+  "rthHomeAltitude": 40,
+  "rthDescentRadius": 200,
+  "rthHoverThrottle": 0,
+  "rthMaxThrottle": 0,
+  "rthMinThrottle": 0,
+  "rthHomeAction": 0,
+  "rthReturnSpeed": 0,
+  "nonStandardDshot": 0,
+  "BECvoltage": 0
+}
