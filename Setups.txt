@@ -5,12 +5,12 @@ Word of caution - always do a walkthrough at any spot before you fly and have a 
 
 Thanks to these companies for making great products and keeping me in the sky: 
 
-@criscrossfpv     FIRE DRAGONFLY
-@fettec           FETtec 35A ESC
-@AmaxInno         Performante 2306 1950kv
+@criscrossfpv     FIRE DRAGONFLY V10
+@fettec           FETtec F7 + 35A ESC
+@AmaxInno         Performante 2306/Superleggera 2305.5 1950kv
 @Blacksheepfpv    Crossfire Rx
 @Blacksheepfpv    Tango2 Pro Tx
-@Gemfanhobby      GF5236
+@Gemfanhobby      GF5236/EthixP3/Dalprop T5040
 @dji              Goggles
 @Ovonic           6S 1000mah LIPO
 @Gopro            Hero 5 Session
@@ -23,32 +23,19 @@ Music: https://www.ashamaluevmusic.com/
 Marmotte DJI
 -------------------------
 Frame - #Armattan Marmotte DJI edition
-FC - #KISSv2
-ESC - #KISS32A
+FC - #KISSv1
+ESC - #FETtec 45 4in1
 Motors - #AmaxInno Performante 2306 1950kv
-Prop - #EthixS4 
+Prop - #EthixP3
 RC link - #tbscrossfire
 VTX&Cam - #Caddx Vista
 HD cam - #GoPro Session5
 Battery - Ovonic 1000mAh 6s
           DemonRC 666c 5s 1100mAh
 
-Marmotte
+CrissCross Fire Dragonfly v10
 -------------------------
-Frame - #Armattan Marmotte
-FC - #KISS v1
-ESC - #KISS 4in1 25A
-Motors - #AmaxInno Performante 2306 1950kv
-Prop - #Ethix S3
-RC link - #tbscrossfire
-VTX&Cam - #Caddx Vista
-HD cam - #GoPro Session5
-Battery - #Ovonic 1000mAh 6s
-          #DemonRC 666c 5s 1100mAh
-
-CrissCross Fire Dragonfly
--------------------------
-Frame - #crisscross Fire Drangonfly
+Frame - #crisscross Fire Drangonfly v10
 FC - #FETtec F7
 ESC - #FETtec 35A 4in1
 Motor - #AmaxInno Superleggera 2305.5 1950kv
@@ -62,7 +49,7 @@ Battery - #Ovonic 1000mAh 6s
 AmaxInno 6FL
 -------------
 Frame - #AmaxInno 6FL
-FC - #FETtec F7
+FC - #HGLRC Zeus F722
 ESC - #Foxeer Reaper 65A 6-8S BlHeli32 DShot1200
 Motors - #T-Motor F80 Pro 1900kv
 Prop - #Gemfan 6042x3
@@ -71,6 +58,19 @@ RC link - #tbscrossfire
 HD cam - #GoPro Hero7 4k 30fps Superview + HS on
 Battery - #cnhl 2200mAh 6s
           #Infinity 2200mAh 4s
+
+Marmotte - frame sold
+-------------------------
+Frame - #Armattan Marmotte
+FC - #KISS v1
+ESC - #KISS 4in1 25A
+Motors - #AmaxInno Performante 2306 1950kv
+Prop - #Ethix S3
+RC link - #tbscrossfire
+VTX&Cam - #Caddx Vista
+HD cam - #GoPro Session5
+Battery - #Ovonic 1000mAh 6s
+          #DemonRC 666c 5s 1100mAh
 
 Badger - lost in the Atlantic ocean
 -----------
