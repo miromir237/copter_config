@@ -5,33 +5,35 @@ Word of caution - always do a walkthrough at any spot before you fly and have a 
 
 Thanks to these companies for making great products and keeping me in the sky: 
 
-@criscrossfpv     FIRE DRAGONFLY V10
-@fettec           FETtec F7 + 35A ESC
-@AmaxInno         Performante 2306/Superleggera 2305.5 1950kv
-@Blacksheepfpv    Crossfire Rx
-@Blacksheepfpv    Tango2 Pro Tx
-@Gemfanhobby      GF5236/EthixP3/Dalprop T5040
-@dji              Goggles
-@Ovonic           6S 1000mah LIPO
-@Gopro            Hero 5 Session
+@crisscrossfpv1527  FIRE DRAGONFLY V10
+@fettec686          FETtec F7 + 35A ESC
+@aMAXshop           Performante 2306/Superleggera 2305.5 1950kv
+@TeamBlackSheepFPV  Crossfire Rx
+@Blacksheepfpv      Tango2 Pro Tx
+@Gemfanhobby        GF5236x3
+@hqpropzhong6755    #EthixP3 HQ6x3.5x3
+@dji                Goggles V1
+@OVONIC             6S 1000mah LIPO
+@GoPro              Hero 5 Session / Hero 7 Black
 
-Music: https://www.ashamaluevmusic.com/
+Music: 
 
-#fpvfreestyle #fpvdrone #fpvaddiction #fpvpilot #fpvracing #fpvquad #fpvracingdrones #fpv #fpvclips #drones #goprofpv #failsafe #teamblacksheep #FETtec #Ovonic #Caddx
+#fpvfreestyle #fpvdrone #fpvcz #fpvaddiction #fpvpilot #fpvracing #fpvquad #fpvracingdrones #fpv #fpvclips #drones #goprofpv #failsafe #teamblacksheep #FETtec #Ovonic #Caddx
 
 
-Marmotte DJI
+Osiris
 -------------------------
-Frame - #Armattan Marmotte DJI edition
-FC - #KISSv1
+Frame - #HaloRC Osiris
+FC - #FETtec F7
 ESC - #FETtec 45 4in1
 Motors - #AmaxInno Performante 2306 1950kv
-Prop - #EthixP3
+Prop - #HQ6x3.5x3
 RC link - #tbscrossfire
-VTX&Cam - #Caddx Vista
+VTX&Cam - @CaddxFPV   Vista
 HD cam - #GoPro Session5
-Battery - Ovonic 1000mAh 6s
-          DemonRC 666c 5s 1100mAh
+Battery - #Ovonic 1000mAh 6s
+          #cnhl 2200mAh 6s
+          #Infinity 2200mAh 4s
 
 CrissCross Fire Dragonfly v10
 -------------------------
@@ -58,6 +60,19 @@ RC link - #tbscrossfire
 HD cam - #GoPro Hero7 4k 30fps Superview + HS on
 Battery - #cnhl 2200mAh 6s
           #Infinity 2200mAh 4s
+
+Marmotte DJI - disassembled, parts reused in HaloRC Osiris
+-------------------------
+Frame - #Armattan Marmotte DJI edition
+FC - #FETtec F7
+ESC - #FETtec 45 4in1
+Motors - #AmaxInno Performante 2306 1950kv
+Prop - #EthixP3
+RC link - #tbscrossfire
+VTX&Cam - #Caddx Vista
+HD cam - #GoPro Session5
+Battery - Ovonic 1000mAh 6s
+          DemonRC 666c 5s 1100mAh
 
 Marmotte - frame sold
 -------------------------
